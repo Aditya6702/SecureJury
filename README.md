@@ -2,6 +2,8 @@
 
 SecureJury is a decentralized application (DApp) designed to facilitate the filing of FIRs and complaints in a secure, transparent, and user-friendly manner. Built on the Ethereum blockchain, this project leverages smart contracts to ensure the security and tamper-proof nature of stored data. The utilization of IPFS for decentralized data storage adds an extra layer of resilience against censorship and data loss. SecureJury aims to make the legal system more transparent, efficient, and accessible to all individuals, regardless of their technical expertise.
 
+# Live Project::https://jury-51df2.web.app/
+
 ## Features
 
 ### 1. Complaint Details Viewing
